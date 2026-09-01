@@ -26,3 +26,6 @@ Wichtige Schalter:
 Alle Bildanalysen erfolgen lokal. Es gibt keine Telemetrie.
 
 Anzeige: Sammelbot passt die UI automatisch an den Monitor an, auf den das Fenster verschoben wird.
+
+Dieses Bot ist ein inoffizielles Tool und nicht mit Shakes & Fidget bzw. Playa Games verbunden.
+Eine Automation wie diese hier kann gegen die Nutzungsrechte verstoßen und von Playa Games geahndet werden. 
